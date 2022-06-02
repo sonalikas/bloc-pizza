@@ -4,13 +4,16 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. just clone the repo.
 
-A few resources to get you started if this is your first Flutter project:
+open in IDE
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+now go in pubspec.yaml file
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. open terminal or run this command "flutter pub get"
+
+3. now run other command "flutter run"
+
+an now your app is running.
+ 
+done
